@@ -1,0 +1,17 @@
+.nav-link:hover {
+    color: black;
+}
+
+.btn:hover {
+    color: rgb(67, 67, 180);
+
+}
+
+/* #header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+} */
